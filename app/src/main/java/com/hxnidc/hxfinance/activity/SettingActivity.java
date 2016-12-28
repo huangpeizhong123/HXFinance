@@ -5,4 +5,5 @@ package com.hxnidc.hxfinance.activity;
  */
 
 public class SettingActivity {
+    private  int a;
 }
