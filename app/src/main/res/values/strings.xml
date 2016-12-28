@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HXFinance</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_tab_nearby">首页</string>
+    <string name="str_tab_event">资讯</string>
+    <string name="str_tab_discovery">发现</string>
+    <string name="str_tab_message">行情</string>
+    <string name="str_tab_mine">我的</string>
+</resources>
